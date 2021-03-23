@@ -1,0 +1,6 @@
+{
+  "name": "newpack",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./NewPack.js"
+}

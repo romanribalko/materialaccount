@@ -1,0 +1,6 @@
+{
+  "name": "packform",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./PackForm.js"
+}

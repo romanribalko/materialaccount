@@ -1,0 +1,6 @@
+{
+  "name": "prodwriteoffpackform",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ProdWriteOffPackForm.js"
+}

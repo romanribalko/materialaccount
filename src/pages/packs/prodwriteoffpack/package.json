@@ -1,0 +1,6 @@
+{
+  "name": "prodwriteoffpack",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./ProdWriteOffPack.js"
+}
